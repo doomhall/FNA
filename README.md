@@ -1,4 +1,4 @@
-# FNA
+# FNA[![AppVeyor](https://img.shields.io/appveyor/ci/s1rcheese/FNA/master.svg?maxAge=60)](https://ci.appveyor.com/project/s1rcheese/FNA)
 
 This is FNA, an XNA4 reimplementation that focuses solely on developing a fully
 accurate XNA4 runtime for the desktop.
