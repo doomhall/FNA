@@ -251,7 +251,7 @@ namespace Microsoft.Xna.Framework
 			TargetElapsedTime = TimeSpan.FromTicks(166667); // 60fps
 			InactiveSleepTime = TimeSpan.FromSeconds(0.02);
 
-			textInputControlDown = new bool[FNAPlatform.TextInputCharacters.Length];
+            textInputControlDown = new bool[FNAPlatform.TextInputCharacters.Length];
 			textInputControlRepeat = new int[FNAPlatform.TextInputCharacters.Length];
 
 			hasInitialized = false;
